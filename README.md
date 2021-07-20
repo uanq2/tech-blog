@@ -29,4 +29,4 @@ MIT
 
 ## Questions
 
-If you have any questions please contact me via GitHub at YOu can contact me at https://github.com/uanq2/ or via email at .
+If you have any questions please contact me via GitHub at https://github.com/uanq2/ or via email at uanq22@hotmail.com.
